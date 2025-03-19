@@ -1,0 +1,86 @@
+
+C:\Work>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::dff4:1a08:1dad:99be%18
+   IPv4 Address. . . . . . . . . . . : 192.168.208.199
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.208.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::9131:3b65:13a3:33da%10
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4b93:3a26:6e88:bcb8%21
+   IPv4 Address. . . . . . . . . . . : 172.27.160.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . :
+
+C:\Work>ipconfig/all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : D208-PC023
+   Primary Dns Suffix  . . . . . . . : networksupport.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : networksupport.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Physical Address. . . . . . . . . : CC-96-E5-36-D0-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::dff4:1a08:1dad:99be%18(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.208.199(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.208.1
+   DHCPv6 IAID . . . . . . . . . . . : 399283941
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-CA-A5-C1-CC-96-E5-36-D0-01
+   DNS Servers . . . . . . . . . . . : 192.168.2.203
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9131:3b65:13a3:33da%10(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 168427559
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-CA-A5-C1-CC-96-E5-36-D0-01
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-C6-AB-0D
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::4b93:3a26:6e88:bcb8%21(Preferred)
+   IPv4 Address. . . . . . . . . . . : 172.27.160.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 352327005
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-CA-A5-C1-CC-96-E5-36-D0-01
+   NetBIOS over Tcpip. . . . . . . . : Enabled
